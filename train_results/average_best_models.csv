@@ -1,0 +1,3 @@
+metric,average_value
+train_mse,0.02123343053792004
+test_mse,0.1250760847924947
